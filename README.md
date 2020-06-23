@@ -1,9 +1,9 @@
 # Game Project
-This is out C# Game project. Our game is 2D and resembles "super mario".
+This is our C# Game project. Our game is 2D and resembles "Super Mario".
 
 ## Our Team
 
-- Plamen Kostov(Project Manager)
+- Plamen Kostov (Project Manager)
 - Ilian Yanev (Game Director)
 - Boris Simeonov (Site developer)
 - Hristo Hristov (Designer)
