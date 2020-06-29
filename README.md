@@ -1,6 +1,6 @@
 # Game Project
 This is our C# Game project. Our game is 2D and resembles "Super Mario".
-You can download our game from our website!
+ You can download our game from our website!
 
 ## Our Team
 
